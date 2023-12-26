@@ -1,0 +1,35 @@
+{
+    "QA":
+        {
+            "URL": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+            "DB_Name": "QA_Database_Name",
+            "DB_URL": "QA_Database_URL",
+            "Username": "QA_Database_Username",
+            "Password": "QA_Database_Password",
+            "API_BaseURL": "https://gorest.co.in/public/v2",
+            "Authorization": "Bearer "
+        },
+    
+    "STAGE":
+        {
+            "URL": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+            "DB_Name": "STAGE_Database_Name",
+            "DB_URL": "STAGE_Database_URL",
+            "DB_Username": "STAGE_Database_Username",
+            "DB_Password": "STAGE_Database_Password",
+            "API_BaseURL": "https://gorest.co.in/public/v2",
+            "API_Authorization": "Bearer "
+        },
+    
+    "PROD":
+        {
+            "URL": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+            "DB_Name": "PROD_Database_Name",
+            "DB_URL": "PROD_Database_URL",
+            "DB_Username": "PROD_Database_Username",
+            "DB_Password": "PROD_Database_Password",
+            "API_BaseURL": "https://gorest.co.in/public/v2",
+            "API_Authorization": "Bearer "
+        }
+    }
+    

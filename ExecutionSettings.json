@@ -1,0 +1,6 @@
+{
+    "environment": "QA",
+    "emailRecievers": "#{emailRecievers}#",
+    "senderEmail": "#{senderEmail}#",
+    "senderPassword": "#{senderPassword}#"
+}
