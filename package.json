@@ -8,11 +8,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.47.2",
+    "@playwright/test": "^1.52.0",
     "@types/node": "^20.16.9"
   },
   "dependencies": {
-    "playwright-ts-automationframework": "^1.1.12",
-    "playwrightframeworkdemoproject": "file:"
+    "playwright-ts-automationframework": "^1.1.52"
   }
 }
